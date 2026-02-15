@@ -3,8 +3,4 @@ __pycache__/
 *.pyc
 .venv/
 .venv-pipecat/
-kokoro-v1.0.int8.onnx
-kokoro-v1.0.onnx
-voices-v1.0.bin
 *.wav
-*.onnx
